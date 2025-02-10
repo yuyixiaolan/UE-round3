@@ -14,6 +14,6 @@ Saved
 *.xcworkspace
 Build/Windows/FileOpenOrder/CookerOpenOrder.log
 Build/Windows/FileOpenOrder/EditorOpenOrder.log
-Content/资产/
+/Content/资产/
 Build/Windows/FileOpenOrder/CookerOpenOrder.log
 Build/Windows/FileOpenOrder/EditorOpenOrder.log
